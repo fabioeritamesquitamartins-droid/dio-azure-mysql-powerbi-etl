@@ -1,0 +1,9 @@
+nome_funcionario,sobrenome_funcionario,nome_gerente,sobrenome_gerente
+Ahmad,Jabbar,Jennifer,Wallace
+Alicia,Zelaya,Jennifer,Wallace
+Franklin,Wong,James,Borg
+James,Borg,NULL,NULL
+Jennifer,Wallace,James,Borg
+John,Smith,Franklin,Wong
+Joyce,English,Franklin,Wong
+Ramesh,Narayan,Franklin,Wong
